@@ -1,3 +1,5 @@
+<div style="background-image: url('https://drive.google.com/uc?id=1rSKEQFBPgOMbUmi1XIH-cz_bk_1Ka8cd'); background-size: cover; background-position: center; padding: 20px;">
+
 ## Hi, I'm Tetherium!
 
 Studied Computer Science at Dokuz Eylul University, Turkey <br/>
@@ -12,6 +14,8 @@ Studied Computer Science at Dokuz Eylul University, Turkey <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 📫 How to reach me: onur.zn51@gmail.com
+
+</div>
 
 
 
