@@ -1,6 +1,6 @@
 <div style="background-image: url('https://drive.google.com/uc?id=1rSKEQFBPgOMbUmi1XIH-cz_bk_1Ka8cd'); background-size: cover; background-position: center; padding: 20px;">
 
-## Hi, I'm Tetherium!
+## Hi, I'm Onur!
 
 Studied Computer Science at Dokuz Eylul University, Turkey <br/>
 
