@@ -1,38 +1,63 @@
-<div style="background-image: url('https://drive.google.com/uc?id=1rSKEQFBPgOMbUmi1XIH-cz_bk_1Ka8cd'); background-size: cover; background-position: center; padding: 20px;">
+# Hi there, I'm Onur Çinkaya! 👋
+### Computer Scientist | Full-Stack Developer | System Architecture Enthusiast
 
-## Hi, I'm Onur!
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Izmir,%20TR-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-Dokuz%20Eylul%20University-red?style=flat-square&logo=itunes&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-B2%20Level-green?style=flat-square" />
+</p>
 
-Studied Computer Science at Dokuz Eylul University, Turkey <br/>
+---
 
-### Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🚀 About Me
+I'm a developer who bridges the gap between **theoretical computer science** and **practical engineering**. My expertise ranges from **Kernel-level modifications (Pintos)** to **Cloud-Native Microservices (Docker/K8s)**. I specialize in building high-performance automation systems, scaling backend architectures, and implementing fuzzy-logic-based data analysis.
 
-- 📫 How to reach me: onur.zn51@gmail.com
+---
 
-</div>
+### 🛠️ Tech Stack
 
+#### **Languages & Core**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dot-net&logoColor=white)
 
+#### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+#### **Backend & Database**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+#### **DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+---
 
-<!--
-**Tetherium/Tetherium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Featured Projects
 
-Here are some ideas to get you started:
+* **[Pintos Kernel Revision]**: Modified system calls and memory management at the kernel level.
+* **[Fuzzy Real Estate Scout]**: A decision-support system that converts qualitative real estate data into quantitative scores.
+* **[Telegram Security Fork]**: End-to-end encryption layer added to the official desktop client.
+* **[HIZIR]**: A Flutter-based digital platform connecting volunteers with people in need.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Reach Me
+- 🌐 Portfolio: [onurcinkaya.cv](https://onurcinkaya.cv)
+- 📧 Email: onurcinkaya26@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/onurcinkaya](https://linkedin.com/in/onur-cinkaya)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Onur's GitHub Stats" />
+</p>
