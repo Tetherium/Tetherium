@@ -44,20 +44,7 @@ I'm a developer who bridges the gap between **theoretical computer science** and
 
 ---
 
-### 🌟 Featured Projects
-
-* **[Pintos Kernel Revision]**: Modified system calls and memory management at the kernel level.
-* **[Fuzzy Real Estate Scout]**: A decision-support system that converts qualitative real estate data into quantitative scores.
-* **[Telegram Security Fork]**: End-to-end encryption layer added to the official desktop client.
-* **[HIZIR]**: A Flutter-based digital platform connecting volunteers with people in need.
-
----
-
 ### 📫 Reach Me
 - 🌐 Portfolio: [onurcinkaya.cv](https://onurcinkaya.cv)
 - 📧 Email: onurcinkaya26@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/onurcinkaya](https://linkedin.com/in/onur-cinkaya)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Onur's GitHub Stats" />
-</p>
