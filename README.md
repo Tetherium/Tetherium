@@ -1,12 +1,6 @@
 # Hi there, I'm Onur Çinkaya! 
 ### Computer Scientist | Full-Stack Developer | System Architecture Enthusiast
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Izmir,%20TR-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education-Dokuz%20Eylul%20University-red?style=flat-square&logo=itunes&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-B2%20Level-green?style=flat-square" />
-</p>
-
 ---
 
 ###  About Me
