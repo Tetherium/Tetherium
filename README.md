@@ -1,4 +1,4 @@
-# Hi there, I'm Onur Çinkaya! 👋
+# Hi there, I'm Onur Çinkaya! 
 ### Computer Scientist | Full-Stack Developer | System Architecture Enthusiast
 
 <p align="left">
@@ -9,12 +9,12 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I'm a developer who bridges the gap between **theoretical computer science** and **practical engineering**. My expertise ranges from **Kernel-level modifications (Pintos)** to **Cloud-Native Microservices (Docker/K8s)**. I specialize in building high-performance automation systems, scaling backend architectures, and implementing fuzzy-logic-based data analysis.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### **Languages & Core**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -42,9 +42,3 @@ I'm a developer who bridges the gap between **theoretical computer science** and
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-### 📫 Reach Me
-- 🌐 Portfolio: [onurcinkaya.cv](https://onurcinkaya.cv)
-- 📧 Email: onurcinkaya26@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/onurcinkaya](https://linkedin.com/in/onur-cinkaya)
