@@ -1,4 +1,4 @@
-# Hi there, I'm Onur Çinkaya!  
+# Hi there, I'm Onur Çinkaya!   
 ### Computer Scientist | Full-Stack Developer | System Architecture Enthusiast
 
 ---
